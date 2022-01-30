@@ -48,12 +48,6 @@ const config = {
         },
         items: [
           {
-            type: 'doc',
-            docId: 'intro',
-            position: 'left',
-            label: 'Tutorial',
-          },
-          {
             href: 'https://github.com/pradel/sigle',
             label: 'GitHub',
             position: 'right',
