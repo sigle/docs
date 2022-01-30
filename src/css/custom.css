@@ -27,6 +27,10 @@ html[data-theme='dark'] {
   --ifm-color-primary-lightest: #f99552;
 }
 
+body {
+  font-family: "Open Sans";
+}
+
 .docusaurus-highlight-code-line {
   background-color: rgba(0, 0, 0, 0.1);
   display: block;

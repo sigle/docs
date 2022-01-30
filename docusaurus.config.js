@@ -31,7 +31,10 @@ const config = {
           editUrl: 'https://github.com/github/sigle/tree/main/',
         },
         theme: {
-          customCss: require.resolve('./src/css/custom.css'),
+          customCss: [
+            require.resolve('./src/css/custom.css'),
+            require.resolve('@fontsource/open-sans'),
+          ],
         },
       }),
     ],
