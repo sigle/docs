@@ -8,6 +8,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 // TODO setup fathom
 // TODO migrate content from Gitbook
 // TODO deploy
+// TODO meta SEO
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
