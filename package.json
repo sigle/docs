@@ -12,10 +12,18 @@
     "serve": "docusaurus serve",
     "write-translations": "docusaurus write-translations",
     "write-heading-ids": "docusaurus write-heading-ids",
-    "typecheck": "tsc"
+    "typecheck": "tsc",
+    "prettier": "prettier --write '**/*.{json,md,js,ts,jsx,tsx,yml,css}'",
+    "postinstall": "husky install"
   },
   "prettier": {
     "singleQuote": true
+  },
+  "lint-staged": {
+    "*.{json,md,js,ts,jsx,tsx,yml,css}": [
+      "prettier --write",
+      "git add"
+    ]
   },
   "dependencies": {
     "@docusaurus/core": "2.0.0-beta.15",
@@ -31,6 +39,9 @@
     "@docusaurus/module-type-aliases": "2.0.0-beta.15",
     "@fontsource/open-sans": "4.5.3",
     "@tsconfig/docusaurus": "1.0.4",
+    "husky": "7.0.4",
+    "lint-staged": "12.3.1",
+    "prettier": "2.5.1",
     "typescript": "4.5.2"
   },
   "browserslist": {
