@@ -14,6 +14,11 @@
   --ifm-color-primary-lighter: #fb4300;
   --ifm-color-primary-lightest: #ff591c;
   --ifm-code-font-size: 95%;
+
+  --sigle-color-gray-1: #fcfcfc;
+  --sigle-color-gray-4: #ededed;
+  --sigle-color-gray-9: #737373;
+  --sigle-color-gray-11: #1a1a1a;
 }
 
 /* For readability concerns, you should choose a lighter palette in dark mode. */
@@ -25,19 +30,62 @@ html[data-theme='dark'] {
   --ifm-color-primary-light: #f87721;
   --ifm-color-primary-lighter: #f87f2d;
   --ifm-color-primary-lightest: #f99552;
+
+  --sigle-color-gray-1: #1a1a1a;
+  --sigle-color-gray-4: #282828;
+  --sigle-color-gray-9: #a1a1a1;
+  --sigle-color-gray-11: #f2f2f2;
 }
 
 body {
-  font-family: "Open Sans";
+  font-family: 'Open Sans';
+  color: var(--sigle-color-gray-11);
+  background-color: var(--sigle-color-gray-1);
 }
 
-.docusaurus-highlight-code-line {
-  background-color: rgba(0, 0, 0, 0.1);
-  display: block;
-  margin: 0 calc(-1 * var(--ifm-pre-padding));
-  padding: 0 var(--ifm-pre-padding);
+/* Navbar */
+.menu__link {
+  padding: 12px;
+  border-radius: 5px;
+}
+.menu__link:hover {
+  background-color: var(--sigle-color-gray-4);
+}
+.menu__link.menu__link--active {
+  background-color: var(--sigle-color-gray-4);
 }
 
-html[data-theme='dark'] .docusaurus-highlight-code-line {
-  background-color: rgba(0, 0, 0, 0.3);
+/* Footer */
+.footer {
+  color: var(--sigle-color-gray-1);
+  background-color: var(--sigle-color-gray-11);
+  border-top: 1px solid var(--ifm-toc-border-color);
+  padding: 40px;
+}
+.footer__title {
+  color: var(--sigle-color-gray-9);
+  margin-bottom: 8px;
+}
+.footer__links {
+  margin-bottom: 40px;
+}
+.footer__link-item {
+  color: var(--sigle-color-gray-1);
+  font-size: 14px;
+}
+.footer__link-item svg {
+  display: none;
+}
+.footer__copyright {
+  font-size: 14px;
+}
+html[data-theme='dark'] .footer {
+  color: var(--sigle-color-gray-11);
+  background-color: var(--sigle-color-gray-1);
+}
+html[data-theme='dark'] .footer__title {
+  color: var(--sigle-color-gray-9);
+}
+html[data-theme='dark'] .footer__link-item {
+  color: var(--sigle-color-gray-11);
 }

@@ -4,8 +4,8 @@ sidebar_position: 4
 
 # Official links
 
-- [Landing page](https://www.sigle.io/)
 - [Application](https://app.sigle.io/)
+- [Landing page](https://www.sigle.io/)
 - [Blog](https://app.sigle.io/sigleapp.id.blockstack/)
 - [Feedback](https://sigle.canny.io/feature-requests/)
 
