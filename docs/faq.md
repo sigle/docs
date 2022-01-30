@@ -16,3 +16,11 @@ When you write on Sigle, all of your data is stocked on a blockchain hub created
 ## Is Sigle free?
 
 Sigle is totally free at the moment. We are working on a paid version of Sigle that will bring premium features.
+
+## Feedback
+
+To help us improve Sigle, [vote for the features](https://sigle.canny.io/feature-requests) you would like us to add!
+
+## Support
+
+If you are facing any issues with Sigle or just want to become part of the community, [join our Discord](https://discord.gg/td7WmgK22k).
