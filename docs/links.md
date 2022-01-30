@@ -17,6 +17,8 @@ sidebar_position: 3
 
 ## The Explorer Guild
 
+3 000 NFT unique and randomly generated NFTs on the Stacks blockchain. Hand drawn and inspired by the famous writer Jules Verne.
+
 - [Landing page](https://www.explorerguild.io/)
 - [Buy on STXNFT](https://stxnft.com/collections/SP2X0TZ59D5SZ8ACQ6YMCHHNR2ZN51Z32E2CJ173.the-explorer-guild/)
 
