@@ -11,15 +11,14 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'My Site',
-  tagline: 'Dinosaurs are cool',
+  title: 'Sigle',
   url: 'https://docs.sigle.io',
   baseUrl: '/',
   onBrokenLinks: 'throw',
-  onBrokenMarkdownLinks: 'warn',
+  onBrokenMarkdownLinks: 'throw',
   favicon: 'img/favicon.ico',
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  organizationName: 'sigle',
+  projectName: 'docs',
 
   presets: [
     [
@@ -29,9 +28,7 @@ const config = {
         docs: {
           routeBasePath: '/',
           sidebarPath: require.resolve('./sidebars.js'),
-          // Please change this to your repo.
-          editUrl:
-            'https://github.com/github/sigle/tree/main/',
+          editUrl: 'https://github.com/github/sigle/tree/main/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
@@ -44,10 +41,10 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: 'My Site',
+        title: 'Sigle Docs',
         logo: {
-          alt: 'My Site Logo',
-          src: 'img/logo.svg',
+          alt: 'Sigle Logo',
+          src: 'img/logo.png',
         },
         items: [
           {
@@ -57,7 +54,7 @@ const config = {
             label: 'Tutorial',
           },
           {
-            href: 'https://github.com/facebook/docusaurus',
+            href: 'https://github.com/pradel/sigle',
             label: 'GitHub',
             position: 'right',
           },
@@ -86,6 +83,10 @@ const config = {
           {
             title: 'Product',
             items: [
+              {
+                label: 'Application',
+                href: 'https://app.sigle.io',
+              },
               {
                 label: 'Blog',
                 href: 'https://app.sigle.io/sigleapp.id.blockstack',
