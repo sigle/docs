@@ -7,7 +7,6 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 // TODO setup prettier + hooks
 // TODO setup fathom
 // TODO migrate content from Gitbook
-// TODO design main page
 // TODO deploy
 
 /** @type {import('@docusaurus/types').Config} */
@@ -28,6 +27,7 @@ const config = {
       /** @type {import('@docusaurus/preset-classic').Options} */
       ({
         docs: {
+          routeBasePath: '/',
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
           editUrl:
