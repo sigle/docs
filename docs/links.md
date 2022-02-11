@@ -1,8 +1,7 @@
 ---
-sidebar_position: 4
+sidebar_position: 8
+sidebar_label: 🔗 Official links
 ---
-
-# Official links
 
 - [Application](https://app.sigle.io/)
 - [Landing page](https://www.sigle.io/)
