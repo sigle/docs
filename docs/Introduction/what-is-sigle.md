@@ -10,23 +10,21 @@ sidebar_label: What is Sigle?
 
 [Sigle](https://www.sigle.io/) is a decentralised and open-source Web 3.0 blogging platform.
 
-We are focusing on giving the power back to the writers and protecting their privacy. Using a decentralised protocol and running on top of the [Stacks blockchain](https://www.stacks.co/), we will give you the possibility to store and lock your writing literally forever.
+We focus on giving writers their power back and protecting their privacy. With our decentralised protocol built on [Stacks](https://www.stacks.co/), you'll be able to store and lock your writing literally forever.
 
-Users have control over their personal data and what they write on Sigle. You're totally anonymous (at least, if you want to be). We don't control your data and we can't sell it.
+Users have control over their personal data and what they write on Sigle. You can be completely anonymous if you wish to.
 
-Welcome to the new Web3 era.
+# Why did we created Sigle?
 
-# Why we created Sigle?
-
-We have created Sigle to thwart the big corporate industries that sell user data against their consent and control their economy by creating algorithms in favor of the platform and not in favor of the user.
+We created Sigle to thwart the big corporate industries that sell user data against their will and control their economy by creating algorithms in favor of the platform rather than the user.
 
 Today, centralized platforms and their private algorithms can decide to limit your account at any time and take away your content, community and revenue. Deplatforming and shadow banning are a regular occurrence.
 
-One day to another, a writter account can become limited without justification from the centralised platform. Your funds, content and community will then be locked.
+A writer's account can become limited overnight with no explanation. Your funds, content and community can be locked.
 
-If you're living on your writings, then you become depent of the platform you use.
+If your writing is your main income, you depend on the platform you use.
 
-On Sigle, you own your content, you own your economy, you own your data, you own your community.
+On Sigle, you own your content, you own your economy, you own your data.
 
 **On Sigle, you are your own master.**
 
@@ -36,4 +34,4 @@ We offer a solution where you truly own your content and community. All your dat
 
 Switching from one client to another does not mean losing access to your content.
 
-Each client can not only have their own unique content policy, but also their own monetization strategy. **Any developer can leverage our protocol to integrate the latest and greatest Defi (DEcentralised FInance) products.**
+Each client can have their own unique content policy as well as their own monetization strategy. **Any developer can leverage our protocol to integrate the latest and greatest Defi (DEcentralised FInance) products.**
