@@ -8,25 +8,25 @@ sidebar_position: 2
 
 #### 1. Your ID
 
-You can see with which ID you're logged in. Click on it to logout.
+You can see which ID you're logged in with. Click on it to logout.
 
 #### 2. Side menu
 
 ##### Drafts
 
-This tab contain all your drafts. Only YOU can see/read it.
+This tab contains all your drafts. Only YOU can see/read it.
 
 ##### Published
 
-This tab contain all your published content. all these texts are accessible from your blog and visible for anyone if you have shared your blog. You still can "unpublish" a story by editing it and clicking on the "upublish" button.
+This tab contains all your published content. It is accessible on your blog and anyone you have shared it with. You can still unpublish a story by editing it and clicking on the "unpublish" button.
 
 ##### Settings
 
-Change your profile picture, your descritpion, chose a theme color for your blog and more.
+Change your profile picture, your description, choose a color theme for your blog and more.
 
 #### 3. Footer side menu
 
-Get an easy access to that documentation, our blog, our Discord help page, the Github and more.
+Get easy access to documentation, our blog, our Discord help page, the Github and more.
 
 #### 4. Main panel
 
@@ -34,7 +34,7 @@ After creating a story (top right button), you'll see it appear here. If you don
 
 #### 4. Visit and create
 
-These two buttons top right give you access to your blog (published stories) and the editor to write a new awesome story.
+These two top right buttons give you access to your blog (published stories) and the editor to write a new awesome story.
 
 ## Editor
 
@@ -46,9 +46,9 @@ These two buttons top right give you access to your blog (published stories) and
 
 #### 3. Save and/or Publish your story
 
-#### 4. Access to the story settings
+#### 4. Access the story settings​
 
-Choose a cover image, add a meta title and descritpion for the SEO, choose the date of publication and more...
+Choose a cover image, add a meta title and description for the SEO, choose the date of publication and more...
 
 #### 5. Main panel. Write without compromise.
 

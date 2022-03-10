@@ -3,7 +3,7 @@ sidebar_position: 5
 sidebar_label: Keyboard shortcuts
 ---
 
-Sigle provide the following keyboard shortcuts to get more done in less time:
+Sigle provides the following keyboard shortcuts to get more done in less time:
 
 ### Essentials
 
@@ -13,7 +13,7 @@ Sigle provide the following keyboard shortcuts to get more done in less time:
 
 `Cmd + v` or `Ctrl + v` => paste
 
-`Cmd + Shift + v` or `Ctrl + Shift + v` => paste without formating
+`Cmd + Shift + v` or `Ctrl + Shift + v` => paste without formatting
 
 `Cmd + z` or `Ctrl + z` => undo
 
@@ -55,9 +55,9 @@ Sigle provide the following keyboard shortcuts to get more done in less time:
 
 `Cmd + a` or `Ctrl + a` => Select all
 
-`Shift + ←` or `Shift + ←` => Extend selection one character to left
+`Shift + ←` or `Shift + ←` => Extend selection one character to the left
 
-`Shift + →` or `Shift + →` => Extend selection one character to right
+`Shift + →` or `Shift + →` => Extend selection one character to the right
 
 `Shift + ↑` or `Shift + ↑` => Extend selection one line up
 

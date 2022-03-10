@@ -10,7 +10,7 @@ You can add some formatting by selecting some text to open the inline palette.
 
 ### Headings
 
-As the big title of your article will act as H1, you can chose between large title (H2) and small title (H3) for titling in the editor. To do this, click on the "+" icon and choose the heading you want.
+As the big title of your article will act as H1, you can choose between a large title (H2) and a small title (H3) for titling in the editor. To do this, click on the "+" icon and choose the heading you want.
 
 ![Introduction illustration](/img/illustrations/heading.gif)
 
@@ -22,13 +22,13 @@ You can also add links to your text by selecting it and clicking on the 🔗 ico
 
 ### Inline code
 
-Write simple lines of code like this:
+Write simple lines of code this way:
 
 ![Introduction illustration](/img/illustrations/inline_code.gif)
 
 ### Code blocks
 
-You can also write longer code by clicking on the "+" icon to open the Inline menu and choosing "Code", or simply copy and paste your code into the editor.
+You can also write longer code by clicking the "+" icon to open the Inline menu and choosing "Code", or you can simply copy and paste your code into the editor.
 
 ![Introduction illustration](/img/illustrations/code.gif)
 
@@ -46,6 +46,6 @@ Change the text style to write a quote. You can use the bubble menu to underline
 
 ### Lists
 
-Add a bulleted or a numbered list like this:
+Add a bulleted or a numbered list:
 
 ![Introduction illustration](/img/illustrations/lists.gif)

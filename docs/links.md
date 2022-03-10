@@ -3,7 +3,9 @@ sidebar_position: 8
 sidebar_label: 🔗 Official links
 ---
 
-- [Application](https://app.sigle.io/)
+# Links
+
+- [Application (Sigle)](https://app.sigle.io/)
 - [Landing page](https://www.sigle.io/)
 - [Blog](https://app.sigle.io/sigleapp.id.blockstack/)
 - [Feedback](https://sigle.canny.io/feature-requests/)
@@ -16,11 +18,11 @@ sidebar_label: 🔗 Official links
 
 ## The Explorer Guild
 
-3 000 NFT unique and randomly generated NFTs on the Stacks blockchain. Hand drawn and inspired by the famous writer Jules Verne.
+3 000 unique and randomly generated NFTs on the Stacks blockchain. Hand drawn and inspired by the famous writer Jules Verne.
 
 - [Landing page](https://www.explorerguild.io/)
 - [Buy on STXNFT](https://stxnft.com/collections/SP2X0TZ59D5SZ8ACQ6YMCHHNR2ZN51Z32E2CJ173.the-explorer-guild/)
 
 ## Other projects
 
-- [StxStats](https://www.stxstats.co/): Get the latest data from Stacks blockchain.
+- [StxStats](https://www.stxstats.co/): Get the latest data from the Stacks blockchain.

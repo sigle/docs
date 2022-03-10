@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-To start writing you first story, click on the "New story" button, on top right of your dashboard.
+To start writing your first story, click on the "New story" button, in the top right corner of your dashboard.
 
 ![Introduction illustration](/img/illustrations/new_story_2.png)
 
@@ -32,6 +32,6 @@ You still need to save manually. If you close the tab or go back to your dashboa
 
 ### Visit your blog post
 
-Your story is now published, let's have a look to the article!
+Your story is now published, let's have a look at the article!
 
 ![Introduction illustration](/img/illustrations/step5.gif)
