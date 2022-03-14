@@ -9,6 +9,7 @@ specifiers:
   '@mdx-js/react': 1.6.22
   '@tsconfig/docusaurus': 1.0.4
   clsx: 1.1.1
+  docusaurus-plugin-fathom: 1.1.0
   husky: 7.0.4
   lint-staged: 12.3.1
   prettier: 2.5.1
@@ -23,6 +24,7 @@ dependencies:
   '@docusaurus/theme-classic': 2.0.0-beta.15_587beae5e149c20cb8b57fb85872025f
   '@mdx-js/react': 1.6.22_react@17.0.2
   clsx: 1.1.1
+  docusaurus-plugin-fathom: 1.1.0_@docusaurus+core@2.0.0-beta.15
   prism-react-renderer: 1.2.1_react@17.0.2
   react: 17.0.2
   react-dom: 17.0.2_react@17.0.2
@@ -4146,6 +4148,14 @@ packages:
     resolution: {integrity: sha1-uR2Ab10nGI5Ks+fRB9iBocxGQrY=}
     dependencies:
       buffer-indexof: 1.1.1
+    dev: false
+
+  /docusaurus-plugin-fathom/1.1.0_@docusaurus+core@2.0.0-beta.15:
+    resolution: {integrity: sha512-MVMYb2daXLho8Foaxl2ipTCH3RWEmV5plQytGa8tMk3LOiWcZ5S9TcOhcAB9W5b9ZeebyotWYXpTnsLyXgKFgA==}
+    peerDependencies:
+      '@docusaurus/core': ^2.0.0
+    dependencies:
+      '@docusaurus/core': 2.0.0-beta.15_587beae5e149c20cb8b57fb85872025f
     dev: false
 
   /dom-converter/0.2.0:
