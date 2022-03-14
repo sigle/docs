@@ -112,7 +112,13 @@ const config = {
         theme: lightCodeTheme,
         darkTheme: darkCodeTheme,
       },
+      fathomAnalytics: {
+        siteId: 'SWRRJQGT',
+        customDomain: 'https://louse.sigle.io',
+      },
     }),
+
+  plugins: [require.resolve('docusaurus-plugin-fathom')],
 };
 
 module.exports = config;
