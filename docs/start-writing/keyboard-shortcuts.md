@@ -1,6 +1,7 @@
 ---
 sidebar_position: 5
 sidebar_label: Keyboard shortcuts
+title: Keyboard shortcuts
 ---
 
 Sigle provides the following keyboard shortcuts to get more done in less time:

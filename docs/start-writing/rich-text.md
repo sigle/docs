@@ -1,6 +1,7 @@
 ---
 sidebar_position: 2
 sidebar_label: Rich text
+title: Rich text
 ---
 
 ### Text formatting

@@ -1,6 +1,7 @@
 ---
 sidebar_position: 3
 sidebar_label: Image and content structure
+title: Image and content structure
 ---
 
 ### Add an image to your story

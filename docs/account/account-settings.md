@@ -1,6 +1,7 @@
 ---
 sidebar_position: 1
 sidebar_label: Account settings
+title: Account settings
 ---
 
 You can customize your blog by going to the settings page.

@@ -1,6 +1,7 @@
 ---
 sidebar_position: 4
 sidebar_label: Settings & SEO
+title: Settings & SEO
 ---
 
 ### Change the publication date

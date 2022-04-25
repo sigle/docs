@@ -1,6 +1,7 @@
 ---
 sidebar_position: 2
 sidebar_label: Navigate the platform
+title: Navigate the platform
 ---
 
 ## Dashboard

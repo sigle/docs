@@ -1,6 +1,7 @@
 ---
 sidebar_position: 6
 sidebar_label: RSS Feeds
+title: RSS Feeds
 ---
 
 To access a blog feed, add `/api/feed/` before their username.
