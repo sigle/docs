@@ -1,5 +1,6 @@
 ---
 sidebar_position: 1
+sidebar_label: Write your first story
 ---
 
 To start writing your first story, click on the "New story" button, in the top right corner of your dashboard.
