@@ -21,7 +21,8 @@ sidebar_label: 🔗 Official links
 3 000 unique and randomly generated NFTs on the Stacks blockchain. Hand drawn and inspired by the famous writer Jules Verne.
 
 - [Landing page](https://www.explorerguild.io/)
-- [Buy on STXNFT](https://stxnft.com/collections/SP2X0TZ59D5SZ8ACQ6YMCHHNR2ZN51Z32E2CJ173.the-explorer-guild/)
+- [Buy on Gamma](https://gamma.io/collections/the-explorer-guild)
+- [Buy on Byzantion](https://byzantion.xyz/collection/the-explorer-guild)
 
 ## Other projects
 
