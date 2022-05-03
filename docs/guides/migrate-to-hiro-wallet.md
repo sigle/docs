@@ -11,7 +11,7 @@ Please read this guide carefully before deciding which approach you want to go w
 
 :::
 
-## Option 1 - Create a new account / use you already existing Hiro account
+## Option 1 - Create a new account / use your already existing Hiro account
 
 :::note
 
@@ -26,11 +26,11 @@ This is the recommended approach if you interact with other Stacks apps in the e
 
 #### Cons
 
-- You have to manually migrate your Gaia content from the old to the new account. If you want us to provide a tool for this, [vote for this feature](https://sigle.canny.io/feature-requests/p/allow-to-transfer-blog-to-a-new-account) so we can prioritise it.
+- You have to manually migrate your [Gaia](https://docs.stacks.co/gaia/overview) content from the old to the new account. If you want us to provide a tool for this, [vote for this feature](https://sigle.canny.io/feature-requests/p/allow-to-transfer-blog-to-a-new-account) so we can prioritise it.
 
 ### Guide
 
-1. If you don't already have one, follow [this guide](../getting-started/create-hiro-wallet.md) to create a new Hiro wallet account.
+1. If you don't already have a Hiro wallet account, follow [this guide](../getting-started/create-hiro-wallet.md) to create a new one.
 2. Login to Sigle
 
    a. Login to Sigle with an account owning a .btc name (you can get one at [btc.us](https://btc.us/))
@@ -45,7 +45,7 @@ This is the recommended approach if you interact with other Stacks apps in the e
 
 - Keep using Sigle as usual
 - Use the Hiro wallet extension and access other Stacks apps
-- No need to manually migrate your Gaia content (drafts / published stories, settings...)
+- No need to manually migrate your [Gaia](https://docs.stacks.co/gaia/overview) content (drafts / published stories, settings...)
 
 #### Cons
 
