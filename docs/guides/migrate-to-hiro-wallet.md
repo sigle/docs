@@ -39,6 +39,10 @@ This is the recommended approach if you interact with other Stacks apps in the e
 
 3. Manually copy the content from your old account to the new account. You will need to copy the **drafts**, **published stories** and **settings**.
 
+To access your old account, you can use the legacy connect button on the [login page](https://app.sigle.io/login).
+
+![Legacy login](/img/docs/guides/legacy-login.png)
+
 ## Option 2 - Keep your username and secret key
 
 #### Pros
