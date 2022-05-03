@@ -31,4 +31,8 @@ You have successfully installed the Hiro extension. Now, it is time to create a 
 
 Congratulations! You have successfully created a new Stacks account with a new wallet address! You can now use your new account to any apps in the Stacks ecosystem.
 
-Time to login into Sigle!
+## Login to Sigle
+
+Go to [Sigle](https://app.sigle.io/), click on the "Start Writing" button to login and select your account.
+
+And voila, you should see the dashboard and you can continue to use your new Sigle blog!
