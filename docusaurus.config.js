@@ -26,7 +26,7 @@ const config = {
         docs: {
           routeBasePath: '/',
           sidebarPath: require.resolve('./sidebars.js'),
-          editUrl: 'https://github.com/github/sigle/tree/main/',
+          editUrl: 'https://github.com/sigle/docs/tree/main/',
         },
         theme: {
           customCss: [
@@ -49,7 +49,7 @@ const config = {
         },
         items: [
           {
-            href: 'https://github.com/pradel/sigle',
+            href: 'https://github.com/sigle/sigle',
             label: 'GitHub',
             position: 'right',
           },
