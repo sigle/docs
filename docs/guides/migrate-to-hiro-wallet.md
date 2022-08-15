@@ -55,12 +55,33 @@ To access your old account, you can use the legacy connect button on the [login 
 
 - Need to run a script to transfer the subdomain and wait for the tx to be processed
 
-:::danger
+### Using the Stacks CLI
 
-This option is not available at the moment.
+In order to use the Stacks CLI you need to have Node.js installed on your machine.
 
-If you want to keep your username, we recommend that you wait and keep using the legacy "Blockstack connect" for now.
+To install Node.js, follow the instructions on [this page](https://nodejs.org/en/).
 
-:::
+Then open your terminal and run the following command:
 
-The Stacks team is working on adding support for transferring subdomains to new addresses. You can track the progress [here](https://github.com/hirosystems/stacks.js/issues/1209).
+```sh
+npm install -g @stacks/cli
+```
+
+This will install the Stacks CLI and make it available globally on your machine.
+
+Then, run the following command and replace `<YOUR_BLOCKSTACK_CONNECT_SECRET_KEY>` with your 12 word secret key:
+
+```sh
+stx migrate_subdomains "<YOUR_BLOCKSTACK_CONNECT_SECRET_KEY>" https://registrar.stacks.co
+```
+
+The CLI will ask you to confirm the operation, press yes and enter, and then it will show you the transaction ID. If the process was successful, you will see the following message printed in your terminal:
+
+```json
+{
+  "status": true,
+  "message": "Your subdomains transfer was received, and will be included in the blockchain soon with txId: f85a649fcdfbc3002368f46445ce8b0cc5b6e97158cd1d1f1fe8d0fb945ac7f3"
+}
+```
+
+The transaction ID can be used to monitor the progress of the transaction on the explorer. You can find the explorer at [https://explorer.stacks.co](https://explorer.stacks.co). Once the transaction is included in the blockchain, you can login to Sigle using the Hiro extension and your 12 word secret key.
