@@ -54,14 +54,15 @@ To access your old account, you can use the legacy connect button on the [login 
 #### Cons
 
 - Need to run a script to transfer the subdomain and wait for the tx to be processed
+- If you already have an Hiro wallet, you'll need to use to logout from your current account in the Hiro extension
 
 ### Using the Stacks CLI
 
-In order to use the Stacks CLI you need to have Node.js installed on your machine.
+In order to use the Stacks Command Line Interface you need to have Node.js installed on your machine.
 
 To install Node.js, follow the instructions on [this page](https://nodejs.org/en/).
 
-Then open your terminal and run the following command:
+In your computer applications, open the "Terminal" one and run the following command inside:
 
 ```sh
 npm install -g @stacks/cli
@@ -84,4 +85,4 @@ The CLI will ask you to confirm the operation, press yes and enter, and then it 
 }
 ```
 
-The transaction ID can be used to monitor the progress of the transaction on the explorer. You can find the explorer at [https://explorer.stacks.co](https://explorer.stacks.co). Once the transaction is included in the blockchain, you can login to Sigle using the Hiro extension and your 12 word secret key.
+The transaction ID can be used to monitor the progress of the transaction on [the Stacks explorer](<(https://explorer.stacks.co)>). Once the transaction is included in the blockchain, you can login to Sigle using the Hiro extension and your 12 word secret key.
