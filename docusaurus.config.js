@@ -3,10 +3,6 @@
 const lightCodeTheme = require('prism-react-renderer/themes/github');
 const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
-// TODO setup fathom
-// TODO migrate content from Gitbook
-// TODO meta SEO
-
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Sigle',
@@ -17,6 +13,11 @@ const config = {
   favicon: 'img/favicon.ico',
   organizationName: 'sigle',
   projectName: 'docs',
+
+  i18n: {
+    defaultLocale: 'en',
+    locales: ['en'],
+  },
 
   presets: [
     [
