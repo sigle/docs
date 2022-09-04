@@ -70,7 +70,7 @@ npm install -g @stacks/cli
 
 This will install the Stacks CLI and make it available globally on your machine.
 
-Then, run the following command and replace `<YOUR_BLOCKSTACK_CONNECT_SECRET_KEY>` with your 12 word secret key:
+Then, run the following command and replace `<YOUR_BLOCKSTACK_CONNECT_SECRET_KEY>` with your 12 word secret key (without `<` and `>` chars):
 
 ```sh
 stx migrate_subdomains "<YOUR_BLOCKSTACK_CONNECT_SECRET_KEY>" https://registrar.stacks.co
