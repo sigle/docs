@@ -39,8 +39,10 @@
   },
   "devDependencies": {
     "@docusaurus/module-type-aliases": "2.1.0",
+    "@docusaurus/types": "2.1.0",
     "@fontsource/open-sans": "4.5.11",
     "@tsconfig/docusaurus": "1.0.6",
+    "@types/node": "18.7.14",
     "husky": "8.0.1",
     "lint-staged": "13.0.3",
     "prettier": "2.7.1",
