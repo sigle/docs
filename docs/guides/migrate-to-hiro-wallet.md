@@ -85,4 +85,4 @@ The CLI will ask you to confirm the operation, press yes and enter, and then it 
 }
 ```
 
-The transaction ID can be used to monitor the progress of the transaction on [the Stacks explorer](<(https://explorer.stacks.co)>). Once the transaction is included in the blockchain, you can login to Sigle using the Hiro extension and your 12 word secret key.
+The transaction ID can be used to monitor the progress of the transaction on [the Stacks explorer](https://explorer.stacks.co). Once the transaction is included in the blockchain, you can login to Sigle using the Hiro extension and your 12 word secret key.
