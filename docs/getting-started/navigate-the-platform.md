@@ -1,5 +1,5 @@
 ---
-sidebar_position: 2
+sidebar_position: 5
 sidebar_label: Navigate the platform
 title: Navigate the platform
 ---

@@ -1,6 +1,7 @@
 ---
 sidebar_position: 2
 sidebar_label: Write & Earn Bitcoin (Q2 2022)
+draft: true
 ---
 
 # How to monetise your content?
