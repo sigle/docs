@@ -37,3 +37,9 @@ You still need to save manually. If you close the tab or go back to your dashboa
 Your story is now published, let's have a look at the article!
 
 ![Introduction illustration](/img/illustrations/step5.gif)
+
+### Templates
+
+- [Monthly newsletter](https://app.sigle.io/sigletest.id.stx/pf2x01zrPreLw5B0hwT-6)
+- [Our Roadmap](https://app.sigle.io/sigletest.id.stx/PTUp9SkmJduKTaXI3ZZiE)
+- [Novel plotting](https://app.sigle.io/sigletest.id.stx/WCh5IzFCCY2JT4Geg3Lzu)
