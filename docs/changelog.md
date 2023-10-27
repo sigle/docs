@@ -17,7 +17,12 @@ sidebar_label: Changelog
 - [Custom domain] Improved pagination with a better system that can handle many pages.
 - [Custom domain] Collect emails from the landing and article pages.
 
-See the full list of changes on [GitHub](https://github.com/sigle/sigle/releases/tag/%40sigle%2Fapp%401.7.0).
+See the full list of changes on GitHub:
+
+- [@sigle/app@1.7.0](https://github.com/sigle/sigle/releases/tag/%40sigle%2Fapp%401.7.0)
+- [@sigle/custom-domain@0.2.0](https://github.com/sigle/sigle/releases/tag/%40sigle%2Fcustom-domain%400.2.0)
+- [@sigle/server@0.5.0](https://github.com/sigle/sigle/releases/tag/%40sigle%2Fserver%400.5.0)
+- [@sigle/app-next@0.2.0](https://github.com/sigle/sigle/releases/tag/%40sigle%2Fapp-next%400.2.0)
 
 ## Sigle v1.6
 
@@ -32,7 +37,12 @@ See the full list of changes on [GitHub](https://github.com/sigle/sigle/releases
 - Allow users to add a canonical link to their stories via the editor settings.
 - Prefill user email when subscribing if user has email set.
 
-See the full list of changes on [GitHub](https://github.com/sigle/sigle/releases/tag/%40sigle%2Fapp%401.6.0).
+See the full list of changes on GitHub:
+
+- [@sigle/app@1.6.0](https://github.com/sigle/sigle/releases/tag/%40sigle%2Fapp%401.6.0)
+- [@sigle/custom-domain@0.1.0](https://github.com/sigle/sigle/releases/tag/%40sigle%2Fcustom-domain%400.1.0)
+- [@sigle/server@0.4.0](https://github.com/sigle/sigle/releases/tag/%40sigle%2Fserver%400.4.0)
+- [@sigle/app-next@0.1.0](https://github.com/sigle/sigle/releases/tag/%40sigle%2Fapp-next%400.1.0)
 
 ## Sigle v1.5
 
@@ -44,7 +54,10 @@ See the full list of changes on [GitHub](https://github.com/sigle/sigle/releases
 - Fixed an issue causing articles not to be correctly indexed by crawlers.
 - Many small bug fixes across the app.
 
-See the full list of changes on [GitHub](https://github.com/sigle/sigle/releases/tag/%40sigle%2Fapp%401.5.0).
+See the full list of changes on GitHub:
+
+- [@sigle/app@1.5.0](https://github.com/sigle/sigle/releases/tag/%40sigle%2Fapp%401.5.0)
+- [@sigle/server@0.3.0](https://github.com/sigle/sigle/releases/tag/%40sigle%2Fserver%400.3.0)
 
 ## Sigle v1.4
 
@@ -62,7 +75,10 @@ See the full list of changes on [GitHub](https://github.com/sigle/sigle/releases
 - Improved the editor slash command behaviour, making it accessible for keyboard navigation.
 - Improved editor placeholder behaviour to give you more context when you write.
 
-See the full list of changes on [GitHub](https://github.com/sigle/sigle/releases/tag/%40sigle%2Fapp%401.4.0).
+See the full list of changes on GitHub:
+
+- [@sigle/app@1.4.0](https://github.com/sigle/sigle/releases/tag/%40sigle%2Fapp%401.4.0)
+- [@sigle/server@0.2.0](https://github.com/sigle/sigle/releases/tag/%40sigle%2Fserver%400.2.0)
 
 ## Sigle v1.3
 
@@ -83,7 +99,10 @@ See the full list of changes on [GitHub](https://github.com/sigle/sigle/releases
 - A LOT of internal changes to the codebase, continuing redesign of old components.
 - We’re now able to detect when you’ve connected to Sigle with your BNS name misconfigured, and show you the guide on how to fix it.
 
-See the full list of changes on [GitHub](https://github.com/sigle/sigle/releases/tag/%40sigle%2Fapp%401.3.0).
+See the full list of changes on GitHub:
+
+- [@sigle/app@1.3.0](https://github.com/sigle/sigle/releases/tag/%40sigle%2Fapp%401.3.0)
+- [@sigle/server@0.1.0](https://github.com/sigle/sigle/releases/tag/%40sigle%2Fserver%400.1.0)
 
 ## Sigle v1.2
 
@@ -94,4 +113,6 @@ See the full list of changes on [GitHub](https://github.com/sigle/sigle/releases
 - Added Clarity highlighting support (the smart contract language of Stacks) to the editor.
 - Trying to leave or close the editor page with unsaved changes will now prompt a warning.
 
-See the full list of changes on [GitHub](https://github.com/sigle/sigle/releases/tag/%40sigle%2Fapp%401.2.0).
+See the full list of changes on GitHub:
+
+- [@sigle/app@1.2.0](https://github.com/sigle/sigle/releases/tag/%40sigle%2Fapp%401.2.0)
