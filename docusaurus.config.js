@@ -85,7 +85,7 @@ const config = {
               },
               {
                 label: 'Blog',
-                href: 'https://app.sigle.io/sigleapp.id.blockstack',
+                href: 'https://blog.sigle.io',
               },
               {
                 label: 'Feedback',
