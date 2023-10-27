@@ -115,7 +115,6 @@ const config = {
       },
       fathomAnalytics: {
         siteId: 'SWRRJQGT',
-        customDomain: 'https://louse.sigle.io',
       },
     }),
 

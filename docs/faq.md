@@ -7,9 +7,7 @@ sidebar_label: ❓ FAQ
 
 ## Who is behind Sigle?
 
-Sigle was created by [Léo Pradel](https://twitter.com/leopradel) (CEO), [Quentin Saubadu](https://twitter.com/QuentinSaubadu) (CDO) and [Artūrs Kirtovskis](https://twitter.com/akirtovskis) (CTO).
-
-In January 2022, [Greg Ogun](https://twitter.com/gregogun) joined the team as front-end engineer.
+Sigle was created by [Léo Pradel](https://twitter.com/leopradel) (CEO/CTO) and [Quentin Saubadu](https://twitter.com/QuentinSaubadu) (CDO).
 
 ## Where is my data stored?
 
@@ -17,9 +15,9 @@ When you write on Sigle, all of your data is stored on a blockchain hub created 
 
 ## Is Sigle free?
 
-Sigle is totally free, but we are working on a paid version (Creator plan) that will bring exclusive premium features.
+Sigle is totally free, we also offer a paid version (Creator plan) that brings exclusive premium features.
 
-Explorer Guild NFTs are a free lifetime access to the upcoming Creator plan. [More info here](https://www.explorerguild.io/)
+Explorer Guild NFTs are a free lifetime access to the Creator plan. [More info here](https://www.explorerguild.io/)
 
 ## Feedback
 

@@ -14,7 +14,7 @@ We focus on giving writers their power back and protecting their privacy. With o
 
 Users have control over their personal data and what they write on Sigle. You can be completely anonymous if you wish to.
 
-# Why did we created Sigle?
+# Why did we create Sigle?
 
 We created Sigle to thwart the big corporate industries that sell user data against their will and control their economy by creating algorithms in favor of the platform rather than the user.
 
@@ -26,11 +26,9 @@ If your writing is your main income, you depend on the platform you use.
 
 On Sigle, you own your content, you own your economy, you own your data.
 
-**On Sigle, you are your own master.**
-
 # Sigle protocol... in a more technical way
 
-We offer a solution where you truly own your content and community. All your data is stored forever via smart contracts on the blockchain via [Arweave](https://www.arweave.org/). This enables any developer to access their content via open APIs.
+We offer a solution where you truly own your content and community. All your data is stored on Gaia, a decentralised Stacks storage. This enables any developer to access their content via open APIs.
 
 Switching from one client to another does not mean losing access to your content.
 
