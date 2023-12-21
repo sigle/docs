@@ -14,7 +14,7 @@ First, you’ll need to **install the Hiro wallet** and create your DID (decent
 
 Of course, you can buy $STX without having the Hiro wallet, be we advise you to use it anyway. The Hiro wallet isn’t only used to store your money, it is also used as a way to certify your identity and login to some platforms built on Stacks (such as Sigle, for example). The Hiro wallet will also make future transactions easier.
 
-If you don’t know where to start, we recommend you [follow this tutorial](https://docs.sigle.io/getting-started/create-hiro-wallet)
+If you don’t know where to start, we recommend you [follow this tutorial](./create-leather-wallet.md)
 
 ## 2. Do a KYC
 
