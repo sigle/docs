@@ -1,9 +1,9 @@
 ---
 sidebar_position: 1
-title: Migrate to the Hiro web wallet
+title: Migrate to the Leather web wallet
 ---
 
-If you created your account before mid May 2022, you were used to using "Blockstack Connect" to sign in to your account. Follow this guide to migrate your account to the new Hiro web wallet and continue using Sigle.
+If you created your account before mid May 2022, you were used to using "Blockstack Connect" to sign in to your account. Follow this guide to migrate your account to the new Leather web wallet and continue using Sigle.
 
 :::caution
 
@@ -19,29 +19,15 @@ This is the recommended approach if you interact with other Stacks apps in the e
 
 :::
 
-#### Pros
-
-- Use the Hiro wallet extension and access other Stacks apps
-- Use a .btc domain / register a new free .id.stx subdomain
-
-#### Cons
-
-- You have to manually migrate your [Gaia](https://docs.stacks.co/gaia/overview) content from the old to the new account. If you want us to provide a tool for this, [vote for this feature](https://sigle.canny.io/feature-requests/p/allow-to-transfer-blog-to-a-new-account) so we can prioritise it.
-
 ### Guide
 
-1. If you don't already have a Hiro wallet account, follow [this guide](../getting-started/create-hiro-wallet.md) to create a new one.
-2. Login to Sigle
+1. If you don't already have a Leather wallet account, follow [this guide](../getting-started/create-leather-wallet.md) to create a new one.
+2. Login to Sigle with an account owning a .btc name (you can get one at [btc.us](https://btc.us/)).
+3. Navigate to https://app.sigle.io/migrate-legacy-account.
+4. Enter your legacy 12 word secret and legacy username and click on "Migrate".
+5. Open a ticket on discord so we can setup a redirect from your legacy username to your new one.
 
-   a. Login to Sigle with an account owning a .btc name (you can get one at [btc.us](https://btc.us/))
-
-   b. Login to Sigle with your account and follow the UI to register a new free subdomain
-
-3. Manually copy the content from your old account to the new account. You will need to copy the **drafts**, **published stories** and **settings**.
-
-To access your old account, you can use the legacy connect button on the [login page](https://app.sigle.io/login).
-
-![Legacy login](/img/docs/guides/legacy-login.png)
+![Legacy migrate](/img/docs/guides/migrate-legacy-screen.png)
 
 ## Option 2 - Keep your username and secret key
 

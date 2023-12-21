@@ -1,24 +1,24 @@
 ---
 sidebar_position: 1
-sidebar_label: Setting up the Hiro wallet
-title: Setting up the Hiro wallet
+sidebar_label: Setting up the Leather wallet
+title: Setting up the Leather wallet
 ---
 
 :::note
 
-If your Hiro wallet is already setup, you can skip this section.
+If your Leather wallet is already setup, you can skip this section.
 
 :::
 
-## Install the Hiro web wallet
+## Install the Leather web wallet
 
-The Hiro web wallet extension is an open-source browser extension that acts as a web wallet for the Stacks blockchain. It is available for Chrome, Brave and Firefox.
+The Leather web wallet extension is an open-source browser extension that acts as a web wallet for the Stacks blockchain. It is available for Chrome, Brave and Firefox.
 
-1. Go to the Hiro web wallet website at [www.hiro.so/wallet/install-web](https://www.hiro.so/wallet/install-web).
+1. Go to the Leather web wallet website at [leather.io/install-extension](https://leather.io/install-extension).
 2. Click on the "Install" button. This will bring up a popup menu with an option to "Add to Chrome."
 3. Click the "Add to Chrome" button and then click "Add Extension" in the next popup menu that appears.
 
-You have successfully installed the Hiro extension. Now, it is time to create a new Stacks wallet.
+You have successfully installed the Leather extension. Now, it is time to create a new Stacks wallet.
 
 ## Create a new Stacks account
 
